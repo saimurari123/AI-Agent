@@ -1,0 +1,6 @@
+install tk
+install SpeechRecognition
+install pyttsx3 
+install requests
+import datetime
+import threading

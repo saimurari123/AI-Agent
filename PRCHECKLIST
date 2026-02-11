@@ -1,0 +1,4 @@
+--files ui/**
++title+ Frontend testing checklist
++task+ UI changes visually inspected on Chrome
++task+ UI changes visually inspected on Safari

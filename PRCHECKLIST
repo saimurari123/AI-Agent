@@ -4,13 +4,3 @@
 +task+ Unit tests updated/added
 +task+ All tests pass locally
 +task+ Docstrings added for new functions/classes
-
---files requirements.txt
-+title+ Dependency checklist
-+task+ Dependencies reviewed for security
-+task+ Version pins verified
-
---files docs/**
-+title+ Documentation checklist
-+task+ Documentation updated for new features
-+task+ README reviewed for accuracy

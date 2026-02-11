@@ -1,6 +1,3 @@
 --files *.py
-+title+ Python code checklist
-+task+ Code follows PEP8 style guidelines
-+task+ Unit tests updated/added
-+task+ All tests pass locally
-+task+ Docstrings added for new functions/classes
++title+ Python checklist
++task+ Code reviewed

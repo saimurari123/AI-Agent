@@ -1,2 +1,3 @@
-+title+ Python checklist
-+task+ Code reviewed
++task+  Potential performance pitfalls were considered?
++task+  Commit messages follow our convention?
++task+  Does this code comply with the teams chosen architecture?
